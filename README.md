@@ -1,5 +1,4 @@
 # HMCC_Task4
-# HMCC_Task3
 ### Configure Wordpress(Public Subnet) + Mysql(Private Subnet) + NAT on AWS using Terraform
 
 # Detailed explanation 
